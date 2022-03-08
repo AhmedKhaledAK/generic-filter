@@ -2,14 +2,14 @@ package GenericFilter.models;
 
 public class SortData {
     private String fieldName;
-    private Boolean isAsc;
+    private Boolean asc;
 
     public SortData() {
     }
 
-    public SortData(String fieldName, Boolean isAsc) {
+    public SortData(String fieldName, Boolean asc) {
         this.fieldName = fieldName;
-        this.isAsc = isAsc;
+        this.asc = asc;
     }
 
     public String getFieldName() {
@@ -20,11 +20,11 @@ public class SortData {
         this.fieldName = fieldName;
     }
 
-    public Boolean getAsc() {
-        return isAsc;
+    public Boolean isAsc() {
+        return asc;
     }
 
     public void setAsc(Boolean asc) {
-        isAsc = asc;
+        this.asc = asc;
     }
 }
