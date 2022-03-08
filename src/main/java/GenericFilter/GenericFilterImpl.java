@@ -1,0 +1,4 @@
+package GenericFilter;
+
+class GenericFilterImpl {
+}
