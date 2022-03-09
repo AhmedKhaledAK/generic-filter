@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"GenericFilter.models","l":"FilterOperator"},{"p":"GenericFilter.models","l":"FilterPredicate"},{"p":"GenericFilter","l":"GenericFilter"},{"p":"GenericFilter","l":"GenericFilterFactory"},{"p":"GenericFilter.models","l":"SortData"}]
